@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newerversion of method project 1103", "newerversion of method project 1103\newerversion of method project 1103.csproj", "{AC0D0CD7-E215-4927-8FCE-B86B50AB729D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0D0CD7-E215-4927-8FCE-B86B50AB729D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0D0CD7-E215-4927-8FCE-B86B50AB729D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0D0CD7-E215-4927-8FCE-B86B50AB729D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0D0CD7-E215-4927-8FCE-B86B50AB729D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F9A33E-BAE5-41D4-A643-2C0AC0EEC934}
+	EndGlobalSection
+EndGlobal
